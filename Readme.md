@@ -24,6 +24,3 @@ Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan b
 - **NonKomersial** - Anda tidak dapat menggunakan produk ini untuk kepentingan komersial (yaitu penggunaan yang ditujukan untuk memperoleh keuntungan komersial atau kompensasi dalam bentuk uang), kecuali jika Anda menjadikan produk ini untuk bahan ajar atau memberikan pelatihan penggunaan produk dan Anda menerima upah.
 - **Berbagi Serupa** - Apabila Anda menggubah, mengubah, atau membuat turunan dari proyek ini, Anda harus menyebarluaskan kontribusi Anda dibawah lisensi yang sama dengan produk ini
 
-
-Bagi Anda yang ingin melakukan komersialisasi pada proyek ini dapat menghubungi Nusabot untuk mendapatkan lisensi ekslusif.
-
