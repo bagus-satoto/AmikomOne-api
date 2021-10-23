@@ -1,6 +1,6 @@
 # [Aplikasi AmikomOne-api]
 
-## Aplikasi AmikomOne Merupakan Aplikasi Untuk Memudahkan Mahasiswa Dalam Mencanri Informasi Aplikasi AmikomOne 
+## Aplikasi AmikomOne Merupakan Aplikasi Untuk Memudahkan Mahasiswa Dalam Mencari Informasi di Aplikasi AmikomOne 
 
 
 ## Instalasi
