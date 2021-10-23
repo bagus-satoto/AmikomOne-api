@@ -3,7 +3,7 @@
 ## Aplikasi AmikomOne Merupakan Aplikasi Untuk Memudahkan Mahasiswa Dalam Mencari Informasi di Aplikasi AmikomOne 
 
 
-## Instalasi
+## Informasi
 
 Aplikasi ini membutuhkan sebuah komputer yang dijadikan sebagai server (spesifikasi rendah pun tidak masalah sama sekali) 
 
