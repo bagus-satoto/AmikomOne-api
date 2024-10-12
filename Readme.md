@@ -7,7 +7,7 @@
 
 Aplikasi ini membutuhkan sebuah komputer yang dijadikan sebagai server (spesifikasi rendah pun tidak masalah sama sekali) 
 
-Unduh rilis dari drive https://github.com/ABP-Amikom/AmikomOne-api.git
+Unduh rilis dari drive https://github.com/bagus-satoto/AmikomOne-api.git
     (jangan unduh repo nya karena bukan versi stable).
 
 ## Request Fitur Baru dan Pelaporan Bug
